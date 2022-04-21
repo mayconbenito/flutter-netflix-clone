@@ -1,6 +1,4 @@
-# netflixhomeclone
-
-Netflix Home Screen Clone created with Flutter.
+## Netflix Home Screen Clone created with Flutter.
 
 ![Image 1](./image1.png)
 
